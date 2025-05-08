@@ -5,14 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Repent.umap",
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Blockout_Imports/Temple/Door_Test.uasset",
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Temple_Sequence.uasset",
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/NS_Steam.uasset",
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/M_Horizon.uasset",
+				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Blockout_Imports/Environment/Dead_Tree_Blockout_Export_Game.uasset",
 				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Repent.umap",
 				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Blockout_Imports/Temple/Door_Test.uasset",
 				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Materials/Mat_Brick_Decal.uasset",
 				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Materials/TexturesCom_DecalsDamageFloor0001_3_S.uasset",
-				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Temple_Cutescene.uasset",
-				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Repent.umap",
-				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Blockout_Imports/Temple/Door_Test.uasset",
-				"C:/Users/eoind/Documents/GitHub/Repent-New/Content/Temple_Sequence.uasset"
+				"C:/Users/B00807443/Documents/GitHub/Repent-New/Content/Temple_Cutescene.uasset"
 			]
 		}
 	]
