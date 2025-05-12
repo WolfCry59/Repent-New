@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B00937851/Documents/GitHub/Repent-New/Content/ThirdPerson/UI/UI_HUD.uasset",
+				"C:/Users/B00937851/Documents/GitHub/Repent-New/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Cheyenne Morton/OneDrive - Ulster University/Documents/Repent-New/Content/UI/Images/Blood_texture.uasset",
 				"C:/Users/Cheyenne Morton/OneDrive - Ulster University/Documents/Repent-New/Content/UI/WBP_BloodEffect.uasset",
 				"C:/Users/Cheyenne Morton/OneDrive - Ulster University/Documents/Repent-New/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
